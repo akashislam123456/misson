@@ -1,0 +1,17 @@
+.header-text{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.header-container{
+    background-image: url(./B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png);
+    margin: 100px;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+}
