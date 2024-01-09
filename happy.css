@@ -157,3 +157,69 @@ font-style: normal;
 font-weight: 400;
 line-height: 32px; /* 160% */
 }
+#content-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.what{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.holi{
+    olor: #F00;
+
+text-align: center;
+}
+.sala{
+    color: #070211;
+}
+.holiday{
+    font-size: 60px;
+}
+.color{
+    color: #F00;
+}
+.box{
+    width: 278.09px;
+height: 333.424px;
+flex-shrink: 0;
+}
+#work{
+    display: flex;
+    background-image: url(./B9A1-New-Year-New-Mission-main/resources/Rectangle\ 2.png);
+}
+#play{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.our{
+    font-size: color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;;
+}
+.best{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+#pic{
+    display: flex;
+}
+#potos{
+    display: flex;
+}
+#picture{
+margin-left: 30px;
+}
