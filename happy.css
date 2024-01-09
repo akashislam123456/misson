@@ -223,3 +223,60 @@ line-height: normal;
 #picture{
 margin-left: 30px;
 }
+.midil{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+.fit{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.fot{
+    color: rgba(87, 13, 235, 0.6);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.but{
+    text-align: center;
+    margin-top: 30px;
+    padding: 18px;
+    color: #F00;
+    border-radius: 8px;
+    background: #F00;
+    border: 0px;
+    color: #FFF;
+
+}
+.colam{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #FFF;
+    width: 1320px;
+    height: 180px;
+    background-color: #070211;
+    display: flex;
+    justify-content: space-between;
+}
+.hour{
+    justify-content: center;
+    display: flex;
+    margin-right: 250px;
+}
+.have{
+    display: flex;
+    justify-content: center;
+    l
+}
