@@ -13,5 +13,147 @@ line-height: normal;
     height: 500px;
     background-position: center;
     background-size: cover;
+    
+}
+.section-text{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500px;
+    line-height: normal;
+}
+.all{
+  color:   #070211;
+  font-size: 48px;
+  margin-top: 0px;
+}
+.section-welcome{
+    margin-left: 50px;
+margin-right: 100px;
+
+    width: 1250px;
+    height: 400px;
+    padding: auto;
+    border radius: 10px;
+}
+
+.welcome-text{
     padding: 50px;
+    width: 642px;
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+margin-left: 50px;
+margin-bottom: 100px;
+}
+.distab{
+    margin-left: 150px;
+    background: none;
+    background-color: antiquewhite;
+}
+.join{
+    
+    background-image: url(./B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+    margin-left: 50px;
+    color: #FFF;
+    margin-right: 100px;
+    margin-top: 60px;
+    background-repeat: no-repeat;
+    width: 1250px;
+    height: 600px;
+    border-radius: 10px;
+    display: flex;
+}
+.let{
+    color: rgba(255, 255, 255, 0.966);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+margin-left: 150px;
+}
+.about{
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 200px;
+    background-color:mistyrose  ;
+    width: 1520px;
+height: 400px;
+flex-shrink: 0;
+width left: 50px;
+width-border: 50px;
+border-radius: 10px;
+padding: 40px;
+}
+.place{
+    color: #F00;
+}
+.btn-primary{
+    color: #FFF;
+    border-radius: 200px;
+    background: #F00;
+}
+.soon{
+    display: flex;
+    justify-content: center;
+}
+.new{
+    display: flex;
+    justify-content: center;
+}
+#fast{
+    margin-top: 50px;
+    margin-right: px;
+    margin-left: spx;
+}
+.best{
+    
+    color: #F00;
+
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.coming{
+    color: #070211;
+font-family: Merriweather;
+font-size: 40px;
+font-style: normal;
+font-weight: 1000;
+line-height: normal;
+text-transform: capitalize;
+}
+#second{
+    
+    width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
+display: flex;
+justify-content: center;
+justify-content: space-between;
+}
+.offer{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.welcome{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
 }
